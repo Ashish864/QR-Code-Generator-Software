@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "QR Generator", "QR Generator\QR Generator.vbproj", "{7D913EBA-F11F-4CB0-89EA-0D25F03123B3}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "QR setu", "..\..\QR setu\QR setu.vdproj", "{C2ACD41F-2474-4CA3-A20B-70AAF6A9B1EE}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "QR Generator Setup by Ayush Ashish", "..\..\QR Generator Setup by Ayush Ashish\QR Generator Setup by Ayush Ashish.vdproj", "{73D42A67-7E87-4306-970C-0D36749B2ADD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Qr Generator by Ayush Ashish", "..\..\Qr Generator by Ayush Ashish\Qr Generator by Ayush Ashish.vdproj", "{72AB34E9-3A72-45C3-A037-802DC8473C0E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "QR Generator by Ayush Ashish s", "..\..\QR Generator by Ayush Ashish s\QR Generator by Ayush Ashish s.vdproj", "{4B2F4C23-E4F0-407D-AC42-8F1DB332236B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D913EBA-F11F-4CB0-89EA-0D25F03123B3}.Debug|x86.ActiveCfg = Debug|x86
+		{7D913EBA-F11F-4CB0-89EA-0D25F03123B3}.Debug|x86.Build.0 = Debug|x86
+		{7D913EBA-F11F-4CB0-89EA-0D25F03123B3}.Release|x86.ActiveCfg = Release|x86
+		{7D913EBA-F11F-4CB0-89EA-0D25F03123B3}.Release|x86.Build.0 = Release|x86
+		{C2ACD41F-2474-4CA3-A20B-70AAF6A9B1EE}.Debug|x86.ActiveCfg = Debug
+		{C2ACD41F-2474-4CA3-A20B-70AAF6A9B1EE}.Release|x86.ActiveCfg = Release
+		{73D42A67-7E87-4306-970C-0D36749B2ADD}.Debug|x86.ActiveCfg = Debug
+		{73D42A67-7E87-4306-970C-0D36749B2ADD}.Release|x86.ActiveCfg = Release
+		{72AB34E9-3A72-45C3-A037-802DC8473C0E}.Debug|x86.ActiveCfg = Debug
+		{72AB34E9-3A72-45C3-A037-802DC8473C0E}.Release|x86.ActiveCfg = Release
+		{4B2F4C23-E4F0-407D-AC42-8F1DB332236B}.Debug|x86.ActiveCfg = Debug
+		{4B2F4C23-E4F0-407D-AC42-8F1DB332236B}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
